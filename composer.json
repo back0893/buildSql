@@ -1,0 +1,18 @@
+{
+    "name": "liu/buildsql",
+    "description": "build sql by tp5.1 orm",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "back0893",
+            "email": "back0893@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "think\\":"src"
+        }
+    }
+}
