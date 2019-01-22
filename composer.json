@@ -4,6 +4,7 @@
     "type": "library",
     "license": "mit",
     "minimum-stability": "stable",
+    "version": "0.0.1",
     "authors": [
         {
             "name": "back0893",
